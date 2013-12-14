@@ -2,7 +2,7 @@
 
 MongoDB session store for Connect (NOW WITH MORE LOTION FOR EASIER INSERTION)
 
-This is forked from [connect-mongolotion](https://github.com/kcbanner/connect-mongolotion);
+This is forked from [connect-mongo](https://github.com/kcbanner/connect-mongo);
 all the swearing is my own. Please don't complain to Casey if you're offended.
 Unless he offended you. Then complain to him. I'm not bothering to maintain the
 tests. Fuck programming.
