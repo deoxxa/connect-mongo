@@ -18,7 +18,7 @@
     "url": "https://github.com/deoxxa/connect-mongolotion/issues"
   },
   "dependencies": {
-    "mongoskin": "0.6.1"
+    "mongoskin": "^1.3.20-alpha"
   },
   "peerDependencies": {
     "connect": "^2.0.0"
